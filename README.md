@@ -1,6 +1,10 @@
 # New Site Template
 
-[TODO. There will be project description]
+This template includes all the necessary files (kss, js) works autonomously without an Internet connection.
+
+# How to Install
+
+Just download index.html and static folder.
 
 # Project Goals
 
