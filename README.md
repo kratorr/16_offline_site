@@ -1,6 +1,6 @@
 # New Site Template
 
-This template includes all the necessary files (kss, js) works autonomously without an Internet connection.
+This template includes all the necessary files (CSS, JS) works autonomously without an Internet connection.
 
 # How to Install
 
